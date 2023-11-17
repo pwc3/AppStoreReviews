@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "minidom",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MiniDOM/MiniDOM",
+      "state" : {
+        "revision" : "8d0740134f93ee578ef8719291f99e5d95f6ad1a",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
